@@ -1,5 +1,10 @@
-- 2025-11-17 – [NIST FIPS 202 – SHA-3 standard](docs/crypto/FIPS-202.pdf)
-- 2025-11-17 – [RFC 6234 – HMAC/SHA test vectors](docs/crypto/RFC-6234.pdf)
-- 2025-08-13 – [PE-Ring Inside the PE – Tour of Win32](docs/pe-tour.pdf)
-- 2025-08-13 – [PE Format Walkthrough](docs/pe-walkthrough.pdf)
-- 2025-08-13 – [PE Format Layout](docs/pe-layout.pdf)
+# My Reading Archive
+
+## Cryptography
+- 2025-11-17 – [NIST FIPS 202 – SHA-3 standard](docs/NIST.FIPS.202.pdf)
+- 2025-11-17 – [RFC 6234 – HMAC/SHA test vectors](docs/rfc6234.txt.pdf)
+
+## PE / Windows Internals
+- 2025-08-13 – [Peering Inside the PE – A Tour of Win32 Portable Executable File Format (MSDN, 1994)](docs/Peering Inside the PE - A Tour of the Win32 Portable Executable File Format - MSDN (1994).pdf)
+- 2025-08-13 – [PE Format Walkthrough](docs/PE Format Walkthrough.pdf)
+- 2025-08-13 – [PE Format Layout](docs/PE Format Layout.pdf)
