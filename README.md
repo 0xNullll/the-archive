@@ -1,0 +1,5 @@
+- 2025-11-17 – [NIST FIPS 202 – SHA-3 standard](docs/crypto/FIPS-202.pdf)
+- 2025-11-17 – [RFC 6234 – HMAC/SHA test vectors](docs/crypto/RFC-6234.pdf)
+- 2025-08-13 – [PE-Ring Inside the PE – Tour of Win32](docs/pe-tour.pdf)
+- 2025-08-13 – [PE Format Walkthrough](docs/pe-walkthrough.pdf)
+- 2025-08-13 – [PE Format Layout](docs/pe-layout.pdf)
