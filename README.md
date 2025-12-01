@@ -5,6 +5,7 @@
 - 2025-11-17 – [FIPS 202 – SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions](docs/NIST.FIPS.202.pdf)
 - 2025-11-22 – [RFC 2104 – HMAC: Keyed-Hashing for Message Authentication](docs/rfc2104.pdf)
 - 2025-11-28 – [SP800-185 – SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, ParallelHash](docs/NIST.SP.800-185.pdf)
+- 2025-12-1  – [RFC 5869 – HMAC-based Extract-and-Expand Key Derivation Function (HKDF)](docs/rfc5869.pdf)
 
 ## PE / Windows Internals
 - 2025-08-13 – [Peering Inside the PE Tour of Win32](docs/Peering_Inside_the_PE_Tour_of_Win32.pdf)
