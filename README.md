@@ -7,6 +7,10 @@
 - 2025-11-17 – [FIPS 202 – SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions](docs/NIST.FIPS.202.pdf)
 - 2025-11-17 – [RFC 6234 – US Secure Hash Algorithms (SHA and HMAC Test Vectors)](docs/rfc6234.pdf)
 
+## Data Encodings / Utilities
+- 2025-12-3 – [RFC 4648 – The Base16, Base32, and Base64 Data Encodings, October 2006](docs/rfc4648.pdf)
+- 2025-12-3 – [RFC 3548 – Base16, Base32, and Base64 Data Encodings, July 2003](docs/rfc3548.pdf)
+
 ## PE / Windows Internals
 - 2025-08-21 – [PE Format – Win32 Applications (Microsoft Learn)](docs/PE_Format_Win32_Applications_Microsoft_Learn.pdf)
 - 2025-08-13 – [Peering Inside the PE Tour of Win32](docs/Peering_Inside_the_PE_Tour_of_Win32.pdf)
