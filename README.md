@@ -1,6 +1,7 @@
 # My Reading Archive
 
 ## Cryptography
+- 2025-12-15 - [SP 800-38A – Recommendation for Block Cipher Modes of Operation: Methods and Techniques](docs/nistspecialpublication800-38a.pdf)
 - 2025-12-12 – [FIPS 197 – Advanced Encryption Standard (AES)](docs/NIST.FIPS.197-upd1.pdf)
 - 2025-12-01 – [RFC 5869 – HMAC-based Extract-and-Expand Key Derivation Function (HKDF)](docs/rfc5869.pdf)
 - 2025-11-28 – [SP800-185 – SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, ParallelHash](docs/NIST.SP.800-185.pdf)
