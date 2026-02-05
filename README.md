@@ -1,6 +1,7 @@
 # My Reading Archive
 
 ## Cryptography
+- 2026-02-04 - [RFC 2898 - PKCS #5: Password-Based Cryptography Specification Version 2.0, September 2000](docs/rfc2898.pdf)
 - 2026-01-27 - [SP 800-38B - Recommendation for Block Cipher Modes of Operation: The CMAC Mode for Authentication](docs/NIST.SP.800-38b.pdf)
 - 2025-12-21 - [SP 800-38D – Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode (GCM)](docs/nistspecialpublication800-38d.pdf)
 - 2025-12-15 - [SP 800-38A – Recommendation for Block Cipher Modes of Operation: Methods and Techniques](docs/nistspecialpublication800-38a.pdf)
