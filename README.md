@@ -1,7 +1,11 @@
 # My Reading Archive
 
+## CPU Architecture / Assembly
+- 2026-03-05 – [Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 1 – Basic Architecture](docs/253665-090-sdm-vol-1.pdf)
+- 2026-03-05 – [Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 2 – Instruction Set Reference (2A–2D)](docs/325383-090-sdm-vol-2abcd.pdf)
+
 ## Cryptography
-- 2026-02-06 - - [RFC 7539 - ChaCha20 and Poly1305 for IETF Protocols](docs/rfc7539.pdf)
+- 2026-02-06 - [RFC 7539 - ChaCha20 and Poly1305 for IETF Protocols](docs/rfc7539.pdf)
 - 2026-02-04 - [RFC 2898 - PKCS #5: Password-Based Cryptography Specification Version 2.0, September 2000](docs/rfc2898.pdf)
 - 2026-01-27 - [SP 800-38B - Recommendation for Block Cipher Modes of Operation: The CMAC Mode for Authentication](docs/NIST.SP.800-38b.pdf)
 - 2025-12-21 - [SP 800-38D – Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode (GCM)](docs/nistspecialpublication800-38d.pdf)
