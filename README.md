@@ -1,5 +1,8 @@
 # My Reading Archive
 
+## empirical study papers
+- 2026-24-06 – [Analyzing the Evolution of Inter-package Dependencies in Operating Systems: A Case Study of Ubuntu](docs/2307.04458v1.pdf)
+
 ## CPU Architecture / Assembly
 - 2026-03-05 – [Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 1 – Basic Architecture](docs/253665-090-sdm-vol-1.pdf)
 - 2026-03-05 – [Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 2 – Instruction Set Reference (2A–2D)](docs/325383-090-sdm-vol-2abcd.pdf)
