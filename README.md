@@ -29,3 +29,6 @@
 - 2025-08-13 – [Peering Inside the PE Tour of Win32](docs/Peering_Inside_the_PE_Tour_of_Win32.pdf)
 - 2025-08-13 – [PE Format Walkthrough](docs/PE_Format_Walkthrough.pdf)
 - 2025-08-13 – [PE Format Layout](docs/PE_Format_Layout.pdf)
+
+## Operating Systems / Security / Memory Protection
+- 2026-29-06 – [ASLR: How Robust is the Randomness?](docs/2017-SecDev-AnalysisASLR.pdf)
