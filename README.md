@@ -8,7 +8,7 @@
 - 2026-03-05 – [Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 2 – Instruction Set Reference (2A–2D)](docs/325383-090-sdm-vol-2abcd.pdf)
 
 ## Disassembly / CFG Reconstruction
-- 2026-08-18 – [Disassembly of Executable Code Revisited](docs/disasm.pdf)
+- 2026-18-08 – [Disassembly of Executable Code Revisited](docs/disasm.pdf)
 
 ## Cryptography
 - 2026-02-06 - [RFC 7539 - ChaCha20 and Poly1305 for IETF Protocols](docs/rfc7539.pdf)
