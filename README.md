@@ -1,37 +1,37 @@
 # My Reading Archive
 
 ## empirical study papers
-- 2026-24-06 – [Analyzing the Evolution of Inter-package Dependencies in Operating Systems: A Case Study of Ubuntu](docs/2307.04458v1.pdf)
+- 2026-06-24 – [Analyzing the Evolution of Inter-package Dependencies in Operating Systems: A Case Study of Ubuntu](docs/2307.04458v1.pdf)
 
 ## CPU Architecture / Assembly
 - 2026-03-05 – [Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 1 – Basic Architecture](docs/253665-090-sdm-vol-1.pdf)
 - 2026-03-05 – [Intel® 64 and IA-32 Architectures Software Developer’s Manual, Volume 2 – Instruction Set Reference (2A–2D)](docs/325383-090-sdm-vol-2abcd.pdf)
 
 ## Disassembly / CFG Reconstruction
-- 2026-18-08 – [Disassembly of Executable Code Revisited](docs/disasm.pdf)
+- 2026-08-18 – [Disassembly of Executable Code Revisited](docs/disasm.pdf)
 
 ## Cryptography
-- 2026-02-06 - [RFC 7539 - ChaCha20 and Poly1305 for IETF Protocols](docs/rfc7539.pdf)
-- 2026-02-04 - [RFC 2898 - PKCS #5: Password-Based Cryptography Specification Version 2.0, September 2000](docs/rfc2898.pdf)
-- 2026-01-27 - [SP 800-38B - Recommendation for Block Cipher Modes of Operation: The CMAC Mode for Authentication](docs/NIST.SP.800-38b.pdf)
+- 2026-06-02 - [RFC 7539 - ChaCha20 and Poly1305 for IETF Protocols](docs/rfc7539.pdf)
+- 2026-04-02 - [RFC 2898 - PKCS #5: Password-Based Cryptography Specification Version 2.0, September 2000](docs/rfc2898.pdf)
+- 2026-01-27 - [SP 800-38B - Recommendation for Block Cipher Modes of Operation: The CMAC Mode](docs/NIST.SP.800-38b.pdf)
 - 2025-12-21 - [SP 800-38D – Recommendation for Block Cipher Modes of Operation: Galois/Counter Mode (GCM)](docs/nistspecialpublication800-38d.pdf)
-- 2025-12-15 - [SP 800-38A – Recommendation for Block Cipher Modes of Operation: Methods and Techniques](docs/nistspecialpublication800-38a.pdf)
+- 2025-12-15 - [SP 800-38A – Recommendation for Block Cipher Modes and Techniques](docs/nistspecialpublication800-38a.pdf)
 - 2025-12-12 – [FIPS 197 – Advanced Encryption Standard (AES)](docs/NIST.FIPS.197-upd1.pdf)
-- 2025-12-01 – [RFC 5869 – HMAC-based Extract-and-Expand Key Derivation Function (HKDF)](docs/rfc5869.pdf)
-- 2025-11-28 – [SP 800-185 – SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, ParallelHash](docs/NIST.SP.800-185.pdf)
-- 2025-11-22 – [RFC 2104 – HMAC: Keyed-Hashing for Message Authentication](docs/rfc2104.pdf)
-- 2025-11-17 – [FIPS 202 – SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions](docs/NIST.FIPS.202.pdf)
-- 2025-11-17 – [RFC 6234 – US Secure Hash Algorithms (SHA and HMAC Test Vectors)](docs/rfc6234.pdf)
+- 2025-12-01 - [RFC 5869 – HMAC-based Extract-and-Expand Key Derivation Function (HKDF)](docs/rfc5869.pdf)
+- 2025-11-28 - [SP 800-185 – SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, ParallelHash](docs/NIST.SP.800-185.pdf)
+- 2025-11-22 - [RFC 2104 – HMAC: Keyed-Hashing for Message Authentication](docs/rfc2104.pdf)
+- 2025-11-17 - [FIPS 202 – SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions (SHA-3)](docs/NIST.FIPS.202.pdf)
+- 2025-11-17 - [RFC 6234 – US Secure Hash Algorithms (SHA and HMAC Test Vectors)](docs/rfc6234.pdf)
 
 ## Data Encodings / Utilities
-- 2025-12-03 – [RFC 4648 – The Base16, Base32, and Base64 Data Encodings, October 2006](docs/rfc4648.pdf)
-- 2025-12-03 – [RFC 3548 – Base16, Base32, and Base64 Data Encodings, July 2003](docs/rfc3548.pdf)
+- 2025-12-03 - [RFC 4648 – The Base16, Base32, and Base64 Data Encodings, October 2006](docs/rfc4648.pdf)
+- 2025-12-03 - [RFC 3548 – The Base16, Base32, and Base64 Data Encodings, July 2003](docs/rfc3548.pdf)
 
 ## PE / Windows Internals
-- 2025-08-21 – [PE Format – Win32 Applications (Microsoft Learn)](docs/PE_Format_Win32_Applications_Microsoft_Learn.pdf)
-- 2025-08-13 – [Peering Inside the PE Tour of Win32](docs/Peering_Inside_the_PE_Tour_of_Win32.pdf)
-- 2025-08-13 – [PE Format Walkthrough](docs/PE_Format_Walkthrough.pdf)
-- 2025-08-13 – [PE Format Layout](docs/PE_Format_Layout.pdf)
+- 2025-08-21 - [PE Format – Win32 Applications (Microsoft Learn)](docs/PE_Format_Win32_Applications_Microsoft_Learn.pdf)
+- 2025-08-13 - [Peering Inside the PE Tour of Win32](docs/Peering_Inside_the_PE_Tour_of_Win32.pdf)
+- 2025-08-13 - [PE Format Walkthrough](docs/PE_Format_Walkthrough.pdf)
+- 2025-08-13 - [PE Format Layout](docs/PE_Format_Layout.pdf)
 
 ## Operating Systems / Security / Memory Protection
-- 2026-29-06 – [ASLR: How Robust is the Randomness?](docs/2017-SecDev-AnalysisASLR.pdf)
+- 2026-06-29 - [ASLR: How Robust is the Randomness?](docs/2017-SecDev-AnalysisASLR.pdf)
