@@ -9,6 +9,7 @@
 
 ## Disassembly / CFG Reconstruction
 - 2026-08-18 – [Disassembly of Executable Code Revisited](docs/disasm.pdf)
+- 2026-09-03 – [Exploring Errors in Binary-Level CFG Recovery](docs/124354.pdf)
 
 ## Cryptography
 - 2026-06-02 - [RFC 7539 - ChaCha20 and Poly1305 for IETF Protocols](docs/rfc7539.pdf)
