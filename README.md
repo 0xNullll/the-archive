@@ -1,4 +1,4 @@
-# My Reading Archive
+# Reading Archive
 
 ## empirical study papers
 - 2026-06-24 – [Analyzing the Evolution of Inter-package Dependencies in Operating Systems: A Case Study of Ubuntu](docs/2307.04458v1.pdf)
