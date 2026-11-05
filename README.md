@@ -1,6 +1,6 @@
 # Reading Archive
 Papers, RFCs, and specs i have read with the date I finished each one.
-PDFs live in [`docs/`](docs/). All grouped by topic and newest first within each group.
+PDFs live in [`docs/`](docs/).
 
 ## empirical study papers
 - 2026-06-24 - [Analyzing the Evolution of Inter-package Dependencies in Operating Systems: A Case Study of Ubuntu](docs/2307.04458v1.pdf)
